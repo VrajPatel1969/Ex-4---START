@@ -38,3 +38,9 @@ img {
 .bottom {
     background-color: #c2c2c2;
 }
+
+@media (max-width: 652px){
+    img{
+        max-width: 150px;
+    }
+}
